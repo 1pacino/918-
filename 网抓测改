@@ -20,6 +20,7 @@
 {"key":"md","name":"91md🔞","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"91","name":"9118🔞","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"hck","name":"黄仓库🔞","type":0,"api":"https://hsck123.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"asm","name":"Asmr🔞","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"gdl","name":"香奶儿🔞","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"afasu","name":"Afasu🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"pgxdy","name":"Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
