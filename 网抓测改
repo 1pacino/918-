@@ -5,6 +5,7 @@
 {"key":"18","name":"🍉测试频道","type":0,"api":""},
 {"key":"uk","name":"🎀优酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kc","name":"💪快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"fmm","name":"💪肥猫","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 //
 
 {"key":"ck","name":"🎀精品x","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
