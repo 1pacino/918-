@@ -11,27 +11,27 @@
 {"key":"sl","name":"🎀森林","type":1,"api":"https://slapibf.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"yt","name":"🎀玉兔","type":1,"api":"https://apiyutu.com/api.php/providedao/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"cl","name":"🎀草榴倒","type":1,"api":"https://www.caoliuzyw.com/api.php/prodao/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"hs","name":"🎀好色","type":0,"api":"https://haosezyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"hs","name":"🎀haos","type":0,"api":"https://haosezyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"LY1","name":"老鸭🈲","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"lyy","name":"🎀老鸭","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"sm","name":"猫资源🔞","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dadi","name":"大地🔞","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"Jp","name":"精品xx🈲","type":1,"api":"https://wwwjingpinx.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"sw","name":"丝袜🔞","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"sw","name":"siwa🔞","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"md","name":"91md🔞","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"91","name":"9118🔞","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"hck","name":"黄仓库🔞","type":0,"api":"https://hsck123.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"hgy","name":"皇冠🔞","type":1,"api":"https://www.hgzy05.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"gdl","name":"香奶儿🔞","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"hck","name":"👨仓库🔞","type":0,"api":"https://hsck123.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"hgg","name":"皇冠🔞","type":1,"api":"https://www.hgzy05.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"gdl","name":"香奈儿🔞","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"afasu","name":"Afasu🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"pgxdy","name":"Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"msn","name":"美少女🈲","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kk","name":"看看🔞","type":0,"api":"https://kkzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"xrb","name":"淫水机🔞","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xrb","name":"饮水机🔞","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 //
 {"key":"jgc","name":"精工厂🔞","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"diand","name":"点点娱乐🔞","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dds","name":"色屌丝🔞","type":0,"api":"https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dds","name":"色屌s🔞","type":0,"api":"https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"xjiejie","name":"小姐姐🔞","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"52av","name":"52资源🔞","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"dMM","name":"大MM🔞","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
@@ -39,7 +39,7 @@
 //
 {"key":"myg","name":"Myg资源","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"f2d","name":"f2d采集","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"19","name":"🔞🈲㊙未成年人禁止访问！","type":0,"api":""}
+{"key":"19","name":"禁止访问！","type":0,"api":""}
 ],
 //解X设置
 "parses":[
