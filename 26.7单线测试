@@ -1,0 +1,43 @@
+{
+  "sites": [
+    {
+      "key": "jipin",
+      "name": "极品资源优化版",
+      "type": 1,
+      "api": "https://jipinvip1.com/api.php/provide/vod/",
+      "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "ext": {
+        "search": {
+          "url": "https://jipinvip1.com/api.php/provide/vod/?ac=search&wd={wd}&pg={pg}",
+          "type": "json", "class": "list",
+          "detail": {
+            "vod_id": "vod_id", "vod_name": "vod_name", "vod_pic": "vod_pic", "vod_remarks": "vod_remarks"
+          }
+        }
+      }
+    },
+    {
+      "key": "heiliao",
+      "name": "黑料资源站",
+      "type": 1,
+      "api": "https://heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "ext": {
+        "search": {
+          "url": "https://heiliaozyapi.com/api.php/provide/vod/?ac=search&wd={wd}&pg={pg}",
+          "type": "json", "class": "list",
+          "detail": {
+            "vod_id": "vod_id", "vod_name": "vod_name", "vod_pic": "vod_pic", "vod_remarks": "vod_remarks"
+          }
+        }
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "黑料解析",
+      "type": 0,
+      "url": "https://www.heiliaozyjx.com/?url="
+    }
+  ]
+}
