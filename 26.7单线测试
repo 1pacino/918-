@@ -2,32 +2,44 @@
   "sites": [
     {
       "key": "jipin",
-      "name": "🍕极品资源优化版",
+      "name": "极品资源优化版",
       "type": 1,
       "api": "https://jipinvip1.com/api.php/provide/vod/",
-      "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "search": {
           "url": "https://jipinvip1.com/api.php/provide/vod/?ac=search&wd={wd}&pg={pg}",
-          "type": "json", "class": "list",
+          "type": "json",
+          "class": "list",
           "detail": {
-            "vod_id": "vod_id", "vod_name": "vod_name", "vod_pic": "vod_pic", "vod_remarks": "vod_remarks"
+            "vod_id": "vod_id",
+            "vod_name": "vod_name",
+            "vod_pic": "vod_pic",
+            "vod_remarks": "vod_remarks"
           }
         }
       }
     },
     {
       "key": "heiliao",
-      "name": "🍔黑料资源站",
+      "name": "黑料资源站",
       "type": 1,
       "api": "https://heiliaozyapi.com/api.php/provide/vod/",
-      "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "search": {
           "url": "https://heiliaozyapi.com/api.php/provide/vod/?ac=search&wd={wd}&pg={pg}",
-          "type": "json", "class": "list",
+          "type": "json",
+          "class": "list",
           "detail": {
-            "vod_id": "vod_id", "vod_name": "vod_name", "vod_pic": "vod_pic", "vod_remarks": "vod_remarks"
+            "vod_id": "vod_id",
+            "vod_name": "vod_name",
+            "vod_pic": "vod_pic",
+            "vod_remarks": "vod_remarks"
           }
         }
       }
@@ -41,18 +53,24 @@
     }
   ]
 }
- {
+    {
       "key": "hsck",
-      "name": "🌭煌仓库",
+      "name": "煌仓库",
       "type": 1,
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/",
-      "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "search": {
           "url": "https://heiliaozyapi.com/api.php/provide/vod/?ac=search&wd={wd}&pg={pg}",
-          "type": "json", "class": "list",
+          "type": "json",
+          "class": "list",
           "detail": {
-            "vod_id": "vod_id", "vod_name": "vod_name", "vod_pic": "vod_pic", "vod_remarks": "vod_remarks"
+            "vod_id": "vod_id",
+            "vod_name": "vod_name",
+            "vod_pic": "vod_pic",
+            "vod_remarks": "vod_remarks"
           }
         }
       }
@@ -60,9 +78,9 @@
   ],
   "parses": [
     {
-      "name": "煌仓库解析",
+      "name": "煌解析",
       "type": 0,
-      "url": " https://jx.bfhsck.com/m3u8/?url="
+      "url": "https://jx.bfhsck.com/m3u8/?url="
     }
   ]
 }
